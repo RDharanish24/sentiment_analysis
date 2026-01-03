@@ -44,8 +44,8 @@ The model classifies reviews as **positive** or **negative**.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/RDharanish24/sentiment_analysis.git
+cd sentiment_analysis
 ```
 
 ### 2️⃣ Install Required Libraries
